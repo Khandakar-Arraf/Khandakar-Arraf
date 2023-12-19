@@ -4,7 +4,7 @@
 
 Ready to learn and adapt to new skills to deliver satisfactory service to clients.
 
-Skills: Laravel/ Django/ JS / HTML / CSS / SQL
+Skills: Laravel/ Django/ JS / HTML / CSS / SQL / MySQL / Figma / Relational Database
 
 - 🔭 I’m currently working on Server-side development 
 - 🌱 I’m currently learning Laravel 
