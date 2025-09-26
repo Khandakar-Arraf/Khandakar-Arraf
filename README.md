@@ -4,11 +4,11 @@
 
 Ready to learn and adapt to new skills to deliver satisfactory service to clients.
 
-Skills: Laravel/ Django/ JS / HTML / CSS / SQL / Figma / Relational Database ( MySQL, Oracle Microsoft SQL server) / C#
+Skills: Laravel/ Django/ PHP / HTML / CSS / SQL / Java /Selenium Relational Database ( MySQL, Oracle, Microsoft SQL server) / C#
 
 - 🔭 I’m currently working on Server-side development 
 - 🌱 I’m currently learning Laravel 
-- 👯 I’m looking to collaborate on Teeam projects. 
+- 👯 I’m looking to collaborate on Team projects. 
 - 😄 Pronouns: He/Him 
 
 
