@@ -1,14 +1,14 @@
 ### Hi there 👋, Khandaker Arraf
-#### Web developer and Softare tester
+#### Software tester.
 
 
 Ready to learn and adapt to new skills to deliver satisfactory service to clients.
 
-Skills: Laravel/ Django/ PHP / HTML / CSS / SQL / Java /Selenium Relational Database ( MySQL, Oracle, Microsoft SQL server) / C#
+Skills: Laravel/ Django/ PHP / HTML / CSS / SQL / Java /Selenium / Relational Database ( MySQL, Oracle, Microsoft SQL server) / C#
 
 - 🔭 I’m currently working on Server-side development 
-- 🌱 I’m currently learning Laravel 
-- 👯 I’m looking to collaborate on Team projects. 
+- 🌱 I’m currently learning Selenium and Playwright. 
+- 👯 I’m looking to collaborate on Team projects or contribute to the organisation.
 - 😄 Pronouns: He/Him 
 
 
